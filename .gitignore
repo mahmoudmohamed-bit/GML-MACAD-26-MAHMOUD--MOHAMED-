@@ -68,6 +68,9 @@ logs/
 *.ipynb
 .ipynb_checkpoints/
 
+# Exception: Track assignment notebooks
+!assignments/**/*.ipynb
+
 # Graph ML
 *.graphml
 *.gml
