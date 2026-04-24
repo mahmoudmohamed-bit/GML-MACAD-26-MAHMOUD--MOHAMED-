@@ -77,3 +77,7 @@ Graph ML -- NOTEBOOKS/
 
 # Asset folder
 Asset/
+
+# Large supporting files
+*.brep
+*.ifc
