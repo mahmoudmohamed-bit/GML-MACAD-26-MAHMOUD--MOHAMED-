@@ -79,7 +79,8 @@ notebooks/
 Graph ML -- NOTEBOOKS/
 
 # Asset folder
-Asset/
+!Asset/
+!Asset/**
 
 # Large supporting files
 *.brep
